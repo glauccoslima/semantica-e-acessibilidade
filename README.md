@@ -39,4 +39,4 @@ Para clonar o projeto em seu local machine e começar a trabalhar nele, siga os 
 3. Execute o comando a seguir para clonar o repositório:
 
 ```bash
-git clone https://github.com/glauccoslima/Corrigindo-bugs-02.git
+git clone https://github.com/glauccoslima/semantica-e-acessibilidade.git
